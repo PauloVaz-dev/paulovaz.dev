@@ -291,6 +291,10 @@ line-height: 2rem;
     color: white;
  }
 
+ .footer a{
+     color: var(--first-color);
+ }
+
  /* Animations */
 .home h1{
     animation-delay: 0.4s;
